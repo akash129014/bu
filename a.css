@@ -1,0 +1,40 @@
+.center{
+    text-align:  center;
+    color: rgb(147, 67, 112);
+}
+.bg-red{
+    background-color: aquamarine;
+}
+.mx-auto{
+         margin: auto;
+        
+}
+.flex{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.flex-col{
+    flex-direction: column;
+}
+.button{
+    padding: 30px  ;
+    margin: 0px 2px;
+    border: 2px solid rgb(86, 6, 12);
+    border-radius: 5px;
+    width: 35px;
+    font-size: medium;
+    font-optical-sizing: 6px;
+   
+}
+.row{
+    margin: 4px 0px;
+}
+.row input{
+    font-size: 13px;
+   padding: 10px 60px;
+   border: 4px solid rgb(117, 32, 32);
+   border-radius: 5px;
+   background-color: blanchedalmond;
+  
+}
